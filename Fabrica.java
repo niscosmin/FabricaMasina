@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Fabrica {
+public class Fabrica{
 
     private static Fabrica fabrica;
     static int nrMasiniFabrica = 0 ;

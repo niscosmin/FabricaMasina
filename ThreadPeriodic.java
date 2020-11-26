@@ -1,4 +1,4 @@
-public class ThreadPeriodic extends java.lang.Thread {
+public class ThreadPeriodic extends java.lang.Thread{
 
     @Override
     public void run (){

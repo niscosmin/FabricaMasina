@@ -1,4 +1,4 @@
-public class Masina {
+public class Masina{
 
     private int id;
     private String culoare;
